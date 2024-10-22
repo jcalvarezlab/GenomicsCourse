@@ -1,2 +1,2 @@
-# GenomicsCourse
-Grad course of fundamental tools applied to the genomics with focus in plant biology
+# Genomics Course
+Grad course in fundamental tools applied to genomics with a focus on plant biology
