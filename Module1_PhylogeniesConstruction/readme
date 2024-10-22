@@ -1,0 +1,6 @@
+|___ (Opcional) Carpeta con papers
+|      |___ (Opcional) Carpeta con reads
+|      |      |___ (Opcional) Subcarpeta con reads
+|      |___ Link al collab_1 o el pipeline_1.ipynb
+|      |___ Link al collab_2 o el pipeline_2.ipynb
+|      |___ Link al collab_n o el pipeline_n.ipynb
